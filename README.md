@@ -21,6 +21,7 @@ Your goal is to determine which combination of prompting technique + platform pr
 5.User experience
 
 OUTPUT:
+
 PARAGRAPH BEFORE APPLYING PROMPTING TECHNIQUES:
 
 Blockchain technology, often associated with cryptocurrencies like Bitcoin, represents a paradigm shift in how digital transactions and data are stored, verified, and shared. Fundamentally, blockchain is a decentralized ledger system where data is grouped into "blocks," each linked to the previous block through a cryptographic hash, forming a chronological "chain." This architecture ensures that once a block is added, its information cannot be altered retroactively without changing subsequent blocks, which would require majority consensus across the network. This immutability provides a foundational layer of security and trust without necessitating centralized authorities such as banks or governmental institutions. At its core, blockchain relies on distributed computing, which means that every participant or "node" in the network holds a copy of the complete blockchain. This distribution makes the system resistant to attacks, fraud, or single points of failure, creating redundancy and heightened resilience. Transaction validation within blockchain networks typically employs consensus mechanisms, such as Proof of Work (PoW) or Proof of Stake (PoS). Proof of Work, popularized by Bitcoin, requires participants (miners) to solve complex computational puzzles to validate transactions, incentivized by cryptocurrency rewards. Proof of Stake, on the other hand, selects validators based on the quantity of cryptocurrency they "stake" or lock in the network, reducing energy consumption and promoting scalability. These mechanisms ensure that all nodes agree on the current state of the ledger, maintaining consistency and preventing double-spending or fraudulent activities. Beyond finance, blockchain applications extend to supply chain management, healthcare, voting systems, identity verification, and smart contracts. For example, in supply chain contexts, blockchain can provide an immutable record of goods from origin to consumer, enhancing transparency and reducing counterfeit risks. Smart contracts, self-executing agreements coded on the blockchain, automate transaction enforcement based on predefined conditions, eliminating intermediaries and increasing efficiency. Despite its advantages, blockchain also presents challenges. Scalability remains a concern, as public blockchains often face limitations in transaction throughput compared to centralized databases. Additionally, the energy demands of certain consensus algorithms, particularly Proof of Work, have drawn criticism regarding environmental sustainability. Data privacy is another notable issue; while transactions are pseudonymous, public ledger structures inherently reveal transaction histories, necessitating sophisticated privacy-preserving solutions when handling sensitive information. Furthermore, regulatory ambiguity and the evolving legal landscape create uncertainties for enterprises considering blockchain deployment. Despite these hurdles, blockchain offers compelling benefits through decentralization, transparency, integrity, and trustless interactions. Emerging innovations, such as Layer-2 protocols, sharding, and zero-knowledge proofs, aim to address throughput and privacy limitations, driving broader adoption. As research and development continue, the technology has the potential to transform industries by enabling secure, verifiable, and distributed systems that operate beyond traditional intermediaries. By understanding blockchain’s fundamental principles—its decentralization, cryptographic linkage, consensus-driven validation, and application versatility—organizations and individuals can better assess its suitability for specific use cases and contribute to its ongoing evolution. Overall, blockchain represents a convergence of computer science, cryptography, and distributed systems engineering that promises to reshape how digital trust is established, assets are managed, and collaborative processes are coordinated across various domains, offering a foundation for more transparent, secure, and automated digital ecosystems.
@@ -47,15 +48,15 @@ Blockchain is a decentralized digital ledger that uses cryptography and consensu
 
 3. Chain-of-Thought Summary
 
-Identify the main topic: Blockchain technology.
+1. Identify the main topic: Blockchain technology.
 
-Extract key concepts: decentralization, cryptography, consensus mechanisms, transparency, immutability.
+2. Extract key concepts: decentralization, cryptography, consensus mechanisms, transparency, immutability.
 
-Note applications: cryptocurrencies, healthcare, voting, supply chains, smart contracts.
+3. Note applications: cryptocurrencies, healthcare, voting, supply chains, smart contracts.
 
-Identify advantages: security, efficiency, trust.
+4. Identify advantages: security, efficiency, trust.
 
-Identify limitations: scalability, energy usage, privacy, regulations.
+5. Identify limitations: scalability, energy usage, privacy, regulations.
 
 Form concise summary:
 
@@ -147,17 +148,17 @@ Blockchain ensures trust through cryptography and consensus, powering not only c
 
 3. Chain-of-Thought Summary
 
-Blockchain is a decentralized ledger.
+1. Blockchain is a decentralized ledger.
 
-It secures transactions via cryptography and consensus (Proof of Work, Proof of Stake).
+2. It secures transactions via cryptography and consensus (Proof of Work, Proof of Stake).
 
-Benefits: transparency, immutability, trust, efficiency.
+3. Benefits: transparency, immutability, trust, efficiency.
 
-Applications: cryptocurrencies, supply chains, healthcare, voting, smart contracts.
+4. Applications: cryptocurrencies, supply chains, healthcare, voting, smart contracts.
 
-Challenges: scalability, energy consumption, privacy, regulation.
+5. Challenges: scalability, energy consumption, privacy, regulation.
 
-Emerging technologies aim to address these limitations.
+6. Emerging technologies aim to address these limitations.
 
 Final summary:
 
@@ -191,15 +192,15 @@ Blockchain is a cryptographic ledger system that records transactions without ce
 
 3. Chain-of-thought summary
 
-Step-by-step reasoning first
+1. Step-by-step reasoning first
 
-What is it? A decentralized ledger secured by cryptography and consensus (PoW/PoS).
+2. What is it? A decentralized ledger secured by cryptography and consensus (PoW/PoS).
 
-What does it do? Records transactions transparently and immutably — no central authority needed.
+3. What does it do? Records transactions transparently and immutably — no central authority needed.
 
-Where is it used? Crypto, supply chains, healthcare, voting, smart contracts.
+4. Where is it used? Crypto, supply chains, healthcare, voting, smart contracts.
 
-What are the limits? Scalability, energy use, privacy concerns, regulatory uncertainty.
+5. What are the limits? Scalability, energy use, privacy concerns, regulatory uncertainty.
 
 Conclusion:
 
