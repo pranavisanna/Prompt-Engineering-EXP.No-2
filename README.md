@@ -216,7 +216,7 @@ Business- Blockchain cuts out middlemen, reduces fraud, and automates contracts 
 Beginner- Think of blockchain as a shared notebook no one can erase or fake. Everyone on the network keeps a copy, so there's no need to trust a single bank or authority.
 
 Policy- Blockchain enables transparent, tamper-proof record systems for voting, identity, and healthcare — but energy consumption and regulatory gaps demand urgent policy frameworks.
-
-image
+<img width="806" height="645" alt="WhatsApp Image 2026-05-18 at 6 51 41 PM" src="https://github.com/user-attachments/assets/98519dd9-0b68-44e5-9f9a-47bb37fff84b" />
 
 RESULT:
+Thus, the summarized Result section based on the experiment using the Four prompt types (zero-shot, few-shot, chain-of-thought, role-based) and Four AI platforms (ChatGPT,Gemini,Copilot and Claude).
